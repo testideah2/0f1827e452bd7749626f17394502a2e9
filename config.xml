@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "uz.sherdavatan"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. vatanda.com</name>
+    <name>vatanda.com</name>
 
     <description>
         Энг янги Ўзбек шоирларни шерлари ва хикоялар қизиқарли расм афоризмлар манолиз сўзлар бизнинг сайтдан топишингиз мумкун
